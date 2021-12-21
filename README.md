@@ -272,7 +272,10 @@ Nov: CVPR
    [[paper](https://arxiv.org/abs/2103.14304)]
    [[code]()]
 
-
+4. MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation
+   [[paper](https://arxiv.org/abs/2111.12707)] 
+   [[code](https://github.com/Vegetebird/MHFormer)]
+   
 
 
 # Multimodal
