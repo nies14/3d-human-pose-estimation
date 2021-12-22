@@ -219,7 +219,8 @@ Nov: CVPR
 
 1. Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks (iccv2019)
 
-   [[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)][code][project]
+   [[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)
+   [[code](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)][project]
 
 
 2. Semantic Graph Convolutional Networks for 3D Human Pose Regression (cvpr2019)
